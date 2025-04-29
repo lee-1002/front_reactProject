@@ -28,7 +28,7 @@ const BackgroundImage = styled.div`
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(https://img.freepik.com/free-vector/clean-black-world-map-silhouette-style-template-design_1017-46154.jpg);
+  background-image: url();
   background-repeat: no-repeat;
   background-position: center 30px;
   background-size: contain;
