@@ -1,23 +1,16 @@
-# front_reactProjec
-
-1.0
-
-<<<<<<< HEAD
-update front project v.1
-<<<<<<< HEAD
-ㅇㄴㅇ
-=======
-
-https://github.com/user-attachments/assets/428fd8f9-cfbd-49cc-b841-b56b4b797775
-
-https://github.com/user-attachments/assets/428fd8f9-cfbd-49cc-b841-b56b4b797775
-
->>>>>>> parent of a8d2b45 (Update README.md)
-=======
-
-
-
-
-
-
->>>>>>> 6608f960efcf7c3070445c0d3829ea02c19c25b6
+# 개요
+----
+CRUD와 최적화된 무한 스크롤을 활용한 SPA
+----
+#흐름도
+![pdf flow](https://github.com/user-attachments/assets/89377a1d-38be-4015-9837-4a331067fe46)
+----
+#핵심 기능
+1. Route
+2. 무한 스크롤
+3. 최적화
+4. 반응형
+5. SPA
+6. CRUD
+----
+#홈화면
