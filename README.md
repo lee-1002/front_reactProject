@@ -35,6 +35,6 @@ CRUD와 최적화된 무한 스크롤을 활용한 SPA
 ## SPA - 어느 페이지에서든 이동 가능
 ![SPA](https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/SPA.gif)
 ----
-## CRUD - 실시간 정보 공유
+## CRUD - 실시간 정보 공유 및 댓글 평가 가능
 ![CRUD](https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/CRUD.gif)
 ----
