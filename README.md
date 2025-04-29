@@ -25,7 +25,8 @@ CRUD와 최적화된 무한 스크롤을 활용한 SPA
 ## 반응형
 ![반응형](https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/%EB%B0%98%EC%9D%91%ED%98%95.gif)
 ----
-## 무한 스크롤![무한 스크롤](https://github.com/lee1002/front_reactProject/blob/main/front_project/image/%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4.gif/)
+## 무한 스크롤
+![무한 스크롤](https://github.com/lee-1002/front_reactProject/blob/main/front_project/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%A0%95%EB%A6%AC/%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4.gif)
 ----
 ## SPA
 ![SPA](https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/SPA.gif)
