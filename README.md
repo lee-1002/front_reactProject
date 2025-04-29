@@ -20,7 +20,7 @@ CRUD와 최적화된 무한 스크롤을 활용한 SPA
 ----
 
 ## 홈화면
-!(https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/%ED%99%88%ED%99%94%EB%A9%B4.gif)
+![홈화면](https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/%ED%99%88%ED%99%94%EB%A9%B4.gif)
 ----
 ## 반응형
 https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/%EB%B0%98%EC%9D%91%ED%98%95.gif
