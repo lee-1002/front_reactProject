@@ -21,7 +21,7 @@
 
 ----
 
-# ⚫*홈화면 - 간단한 퀴즈
+# ⚫ * 홈화면 - 간단한 퀴즈
 
 ![홈화면](https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/%ED%99%88%ED%99%94%EB%A9%B4.gif)
 
