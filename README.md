@@ -39,4 +39,5 @@ CRUD와 최적화된 무한 스크롤을 활용한 SPA
 ![CRUD](https://github.com/lee-1002/front_reactProject/blob/main/front_project/image/CRUD.gif)
 ----
 ## ROUTES - 국가 이름 클릭시 나라 설명창으로 이동
-![
+![p-d](https://github.com/lee-1002/front_reactProject/blob/main/front_project/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%A0%95%EB%A6%AC/p-d.gif)
+----
